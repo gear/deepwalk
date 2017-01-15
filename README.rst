@@ -4,6 +4,10 @@ DeepWalk
 
 DeepWalk uses short random walks to learn representations for vertices in graphs.
 
+Setup environment
+-----------------
+``conda create --name deepwalk python=2``
+
 Usage
 -----
 
